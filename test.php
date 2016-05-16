@@ -10,6 +10,11 @@ class MyClass
 {
     function myFunction()
     {
-        echo 123;
+        return 123;
+    }
+
+    function myFunction2()
+    {
+        return 456;
     }
 }
